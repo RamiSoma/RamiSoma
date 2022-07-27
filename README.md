@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiSoma
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning electron and nodeJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: somavillarami@gmail.com
 
